@@ -1,0 +1,42 @@
+reg add "HKLM\SYSTEM\ControlSet001\Control\DeviceGuard" /v EnableVirtualizationBasedSecurity /d 0x1 /t REG_DWORD /f
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v HotPatchTableSize /d 0x1000 /t REG_DWORD /f
+
+URL----> https://partner.vantosico.com/microsoft
+
+U---> m1-user
+Pw--> p32Kjy9X74EmWThtpDpT68af
+
+U--> m2-user
+Pw--> pMNStDVDDG5DMe76tUdVXvK3
+
+GE--->\\wsehyd-oslib\MSOS\PreRTM\GE_Release\26100.1.240331-1435\amd64fre\media\enterprise_en-us_vl
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Servicing
+Aedebug-->Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AeDebug\AutoExclusionList
+
+SV2--->\\wsehyd-oslib\MSOS\PreRTM\NI_RELEASE\22621.1.220506-1250\amd64fre\media\enterprise_en-us_vl
+
+dYr5Qn{F5y=3P8bwq$Yb
+
+RS1-->\\wsehyd-oslib\MSOS\Released\RS1_RELEASE\14393.0.160715-1616\amd64fre\media\enterprise_en-us_vl\sources
+
+RS5--->\\wsehyd-oslib\MSOS\Released\RS5\amd64fre\media\enterprise_en-us_vl\sources
+
+TH1---> \\wsehyd-oslib\MSOS\Released\TH1\10240.16384.150709-1700\amd64fre\media\enterprises_en-us_vl\sources
+
+vb--->\\wsehyd-oslib\MSOS\PreRTM\VB_RELEASE\19041.1.191206-1406\amd64fre\media\enterprise_en-us_vl\sources
+
+F67D5DA2C7CC4160A1231513EFFCE472-2D
+
+8C6B4BCE
+
+56762520----Unable to connect the VPN with an error "The Server is not responding or cannot be reached".
+
+https://the.earth.li/~sgtatham/putty/0.77/w64/putty-64bit-0.77-installer.msi
+
+24915589---> Unable to skip the song using skip next and skip back.
+
+39426769-----> DVD menu/first title menu options are not working as expected.	
+
+
+
